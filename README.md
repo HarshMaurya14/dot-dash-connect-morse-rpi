@@ -41,13 +41,5 @@ GPIO input/output, pull-up resistors, interrupts and callbacks, button debouncin
 ## Project report
 See [`docs/Dot_Dash_Connect_Report.pdf`](docs/Dot_Dash_Connect_Report.pdf) for the full report (block diagram, circuit diagram, hardware and software description).
 
-## Note
-The project title in the report says "Secure Morse Messaging", but the encoder is a plain text-to-Morse conversion and does not use cryptography.
-
-## Team
-Team project (5 members): Mahak Kumari, Harsh Maurya, Aniket Merwade, Aditya Mhatre, Neetu Pal. Guide: Prof. Ishmeet Singh Riar.
-
-**My contribution:** _(edit this line: e.g. wiring the circuit, writing the Python code, testing, report)_
-
 ## Possible extensions
 Wireless transmission of Morse messages, an LCD display for decoded text, and integration with other communication devices.
